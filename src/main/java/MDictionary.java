@@ -1,7 +1,3 @@
-/**
- * !!! Podlegać modyfikacji mogę jedynie elementy oznaczone to do. !!!
- */
-
 import org.javatuples.Pair;
 
 
